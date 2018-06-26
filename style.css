@@ -5,5 +5,7 @@ body {
 	text-align: left;
 	background: rgb(220,220,220);
 	font: 14 px Georgia, Times, serif;
+	top-margin: 50px;
+	left-margin: 75px;
 }
 
