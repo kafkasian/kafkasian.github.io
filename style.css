@@ -1,3 +1,4 @@
+/* DISABLED DISABLED
 body {
 
 	padding: 100px;
@@ -8,21 +9,16 @@ body {
 	top-margin: 50px;
 	left-margin: 75px;
 }
+DISABLED DISABLED */
+
+body { 
+	background-image: "/small-yellow-notebookpaper.jpg";
+	background-position: center;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+}
 
 p {
 	font-family: 'monaco', monospace;
 }
-
-
-/*
-<style type="text/css"> 
-body {
-	background-image: url("http://images.blogaholicnetwork.com/backgrounds/Why%20Knot!.gif"); 
-	background-position: center;
-	background-repeat: no-repeat;
-	background-attachment: fixed; 
-} 
-</style>
-
-*/
 
