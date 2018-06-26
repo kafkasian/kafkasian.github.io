@@ -9,6 +9,10 @@ body {
 	left-margin: 75px;
 }
 
+p {
+	font-family: 'monaco', monospace;
+}
+
 
 /*
 <style type="text/css"> 
