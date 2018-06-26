@@ -12,7 +12,7 @@ body {
 DISABLED DISABLED */
 
 body { 
-	background-image: "/small-yellow-notebookpaper.jpg";
+	background-image: url("/small-yellow-notebookpaper.jpg");
 	background-position: center;
 	background-repeat: no-repeat;
 	background-attachment: fixed;
