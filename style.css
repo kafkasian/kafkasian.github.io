@@ -2,7 +2,7 @@ body {
 
 	padding: 100px;
 	text-align: left;
-	background: #EEEBE4;
+	background: rgb(238,235,228);
 	font-size: 14xp;
 	font-family: "Courier", "Times", serif;
 	top-margin: 50px;
@@ -20,7 +20,5 @@ body {
 } 
 </style>
 
-<div id="tag" style="position:fixed; right:0px; top:30px; z-index:10; "><a href="http://www.blogaholicdesigns.com/" target="_blank">
-<img border="0" src="http://img710.imageshack.us/img710/8732/whyknottag.png" /></a></div>
 */
 
