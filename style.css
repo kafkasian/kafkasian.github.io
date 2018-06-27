@@ -1,24 +1,17 @@
-/* DISABLED DISABLED
+
 body {
 
-	padding: 100px;
+	padding: 50px;
 	text-align: left;
 	background: rgb(238,235,228);
 	font-size: 14xp;
-	font-family: "Courier", "Times", serif;
+	font-family: "monaco", "courier", monospace;
 	top-margin: 50px;
 	left-margin: 75px;
 }
-DISABLED DISABLED */
 
-body { 
-	background-image: url("/blckppr-cut.jpg");
-	background-position: center;
-	background-repeat: no-repeat;
-	background-attachment: fixed;
-}
-
+/* ---------
 p {
 	font-family: 'monaco', monospace;
 }
-
+--------- */
