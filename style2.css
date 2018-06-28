@@ -1,0 +1,58 @@
+body {
+
+	padding: 50px;
+	text-align: left;
+	background: #1b324b;;
+	top-margin: 50px;
+	left-margin: 100px;
+  color: #fff;
+}
+
+h1 {
+	font-family: "Trebuchet MS", "Times New Roman", "Palatino";
+	font-size: 4.5vw;
+}
+
+h2 { 	
+	font-family: "Courier New", "Verdana", monospace;
+	font-size: 3vw;
+}
+
+p {
+	font-family: "Monaco", "Courier New", "Verdana";
+	font-size: 1.7vw;
+	
+}
+p.small {
+	font-family: "Courier", "Verdana", monospace;
+	font-size: 10px;
+  
+}
+	
+
+div.fixed {
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    width: 300px;
+    border: 3px solid #73AD21;
+}
+
+
+/* --------------------------------------------- */
+
+.site-footer {
+	background: #1b324b;
+	background-size: 300px 300px;
+	color: #fff;
+	font-size: 14px;
+	font-size: 1.4rem;
+	padding-bottom: 10px;
+}
+.site-footer p {
+	margin-bottom: 10px;
+}
+.site-footer .widget-title {
+	margin-top: 0;
+	margin-bottom: 20px;
+}
