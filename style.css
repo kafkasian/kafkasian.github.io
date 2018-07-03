@@ -38,8 +38,18 @@ div.fixed {
     border: 3px solid #73AD21;
 }
 
+.columntxt{
+	-webkit-column-count: 2;
+	-moz-column-count: 2;
+	column-count: 2;
+	-webkit-column-gap: 20px;
+	-moz-column-gap: 20px;
+	column-gap: 20px;
+	
+}
 
-/* --------------------------------------------- */
+
+/* ----------------------
 
 .site-footer {
 	background: #1b324b;
@@ -56,3 +66,4 @@ div.fixed {
 	margin-top: 0;
 	margin-bottom: 20px;
 }
+----------------------------- */
