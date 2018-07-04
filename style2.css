@@ -1,12 +1,13 @@
 body {
 
-	padding: 50px;
+	padding: 10px;
 	text-align: left;
 	/* ---------- background: #1b324b; ------*/
 	background: #203C59;
 	top-margin: 50px;
-	left-margin: 100px;
-  color: #fff;
+	left-margin: 150px;
+	right-margin: 150px;
+	color: rgb(222,222,222);
 }
 
 h1 {
